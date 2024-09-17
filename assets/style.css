@@ -64,3 +64,6 @@ footer p{
     color: var(--card-back-color);
     font-weight: 700;
 }
+.cartao__conteudo__resposta {
+    transform: rotateY(180deg);
+}
